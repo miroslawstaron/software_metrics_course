@@ -8,7 +8,7 @@
 * Anything you want, suggest Excel, Python, Tableau, Tibco Spotfire
 
 # Points that I will assess
-* I can see the base, derived measures and indicators (not in the code, but as data)
+* I can see the base, derived measures and indicators (not in the code, but as raw data)
 * I can clearly see the analysis model (not in the code, but as configuration)
 * I can add/remove input data, i.e. number of defects in a week
 * I can manipulate the number of weeks in the statistics (e.g. 1, 2, 3, x weeks ahead)
@@ -33,5 +33,5 @@ Apply that measurement instrument to the chosen repository
 
 Measure:
 * 1 entity 
-* > 10 entities
+* more than > 10 entities
 * Visualize using bar chart
